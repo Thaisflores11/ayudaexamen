@@ -1,0 +1,28 @@
+section
+{
+    padding: 0px;
+    display: flex;
+    flex-direction:column;
+    font-family: var(--font-family);
+}
+h2
+{
+    padding-left: 15px;
+    color: var(--Dark-Slate-Grey);
+    font-size: 40px;
+}
+p{
+
+    padding-left: 15px;
+    font-size: 17px;
+
+}
+.check
+{
+    padding: 15px;
+    display: flex;
+
+    
+}
+.checks{
+    font-size: 17px;}
